@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857711670298",
+    "firebase_url": "https://getok-b2cee.firebaseio.com",
+    "project_id": "getok-b2cee",
+    "storage_bucket": "getok-b2cee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857711670298:android:4730465651b57bc7678da3",
+        "android_client_info": {
+          "package_name": "go.id.jambiprov.sigetok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857711670298-n692sojgpf9dfvk26d604hqbt0a235ii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "go.id.jambiprov.sigetok",
+            "certificate_hash": "2bfbaa61b68cbf5bcf90a25950fe9873d1a54fbb"
+          }
+        },
+        {
+          "client_id": "857711670298-ea5fmva1tm0r3ek23p4rouu2adhia1el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOGUTJyv3KXtLvLfUypfu3gGfZ0ffr-xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857711670298-ea5fmva1tm0r3ek23p4rouu2adhia1el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
